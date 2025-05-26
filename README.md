@@ -38,4 +38,4 @@
 ### Задание 4 Запись данных в Redis
 
 Запись и вывод данных Redis
-![Redis]([ссылка на скриншот](https://github.com/vonoid/Redis-memcached/blob/6b401244a20c2876e686765437828ea5bab59dc1/img/4.jpg))
+![Redis](https://github.com/vonoid/Redis-memcached/blob/6b401244a20c2876e686765437828ea5bab59dc1/img/4.jpg)
